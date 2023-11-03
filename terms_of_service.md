@@ -6,7 +6,7 @@ User Eligibility:
 There are no specific eligibility requirements to use the Bot. However, you must comply with Discord's Terms of Service and Community Guidelines.
 
 Privacy Policy:
-The Bot collects and stores User IDs and Guild IDs. Any data collected is handled in accordance with our Privacy Policy, which can be found here, https://github.com/Phish-Net/Legal-Documents/privacy_policy.md.
+The Bot collects and stores User IDs and Guild IDs. Any data collected is handled in accordance with our Privacy Policy, which can be found here, https://github.com/Phish-Net/Legal-Documents/blob/main/privacy_policy.md.
 
 Termination:
 The Owner reserves the right to terminate your use of the Bot if misuse is detected, which may include blacklisting you from using the Bot.
